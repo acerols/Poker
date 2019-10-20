@@ -1,0 +1,3 @@
+﻿  Charactor.cpp
+C:\Users\acero\source\repos\Poker\Poker\Charactor.cpp(31,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  Poker.vcxproj -> C:\Users\acero\source\repos\Poker\Debug\Poker.exe
